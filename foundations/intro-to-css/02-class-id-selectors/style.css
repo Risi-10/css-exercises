@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.Klasa {
+    background-color: rgb(197, 81, 81);
+    font-family: Verdana, "Dejavu sans", sans-serif;
+    
+}
+.Klasa.Cooler{
+    font-size: 24px;
+}
+#First {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#Second {
+    background-color: rgb(72, 245, 95);
+    font-size: 24px;
+    font-weight: bold;
+}
+/* Because font size is 24 px the class cooler can be used on the element with id second */
